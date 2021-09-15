@@ -1,0 +1,8 @@
+.nav {
+    background: rgb(203, 85, 33);
+    font-family: system-ui, monospace;
+    height: 80px;
+    padding-top: 20px;
+    border-bottom: 1px solid black;
+    justify-content: center;
+}

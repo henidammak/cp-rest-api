@@ -1,0 +1,8 @@
+1-create a server
+2-use database
+3-connect database to a server
+4-create a model
+
+SQL               ||  NOSQL
+strurctured           no strurctured 
+based table           documents

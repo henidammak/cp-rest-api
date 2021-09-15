@@ -1,0 +1,13 @@
+.add {
+    background-color:rgb(203, 85, 33);
+    text-align: center;
+}
+.add-btn{
+    background-color: #f88d00;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.add-btn:hover{
+   background-color: #e7e582;
+}

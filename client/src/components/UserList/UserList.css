@@ -1,0 +1,10 @@
+.list{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    background: linear-gradient(120deg, #f88d00, #e7e582);
+    font-family:  monospace;
+    padding-top:20px;
+    padding-bottom: 20px;
+  }
+  
